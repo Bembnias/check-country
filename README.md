@@ -1,7 +1,7 @@
 # Check Country App
 Everything about the countries of our globe
 
-## Main features are looking for country by its:
+## Main features are searching for country by its:
 - calling code
 - currency
 - capital city
