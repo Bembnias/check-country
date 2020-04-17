@@ -5,7 +5,7 @@ const Country = (props) => {
 
     if (country !== null) {
         return (
-            <div className="siimple--width-50 siimple--mx-auto siimple--my-3">
+            <div className="siimple--mx-auto siimple--my-3">
                 <h3 className="siimple-h3 siimple--text-center"> {country.name} </h3>
                 <div className="country-flag siimple--mx-auto siimple--mb-3" style={{width: '50%'}}>
                     <img src={country.flag} alt="" style={{width: '100%'}}/>
