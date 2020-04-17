@@ -1,6 +1,8 @@
 # Check Country App
 Everything about the countries of our globe
 
+![](short-show.gif)
+
 ## Main features are looking for country by its:
 - calling code
 - currency
