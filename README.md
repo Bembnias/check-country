@@ -5,8 +5,6 @@ Everything about the countries of our globe
 - calling code
 - currency
 - capital city
-- regional bloc
-- region
 
 You can also:
 - get wider information about specific country

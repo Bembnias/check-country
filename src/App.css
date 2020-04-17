@@ -3,7 +3,6 @@
     margin: 0;
 }
 
-.pin-to-bottom {
-    position: fixed;
-    bottom: 0;
+.App {
+    min-height: calc(100vh - 121px);
 }
