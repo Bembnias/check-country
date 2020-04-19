@@ -14,5 +14,8 @@ You can also:
 * [ReactJS](https://reactjs.org/) - Javascript framework
 * [Axios](https://github.com/axios/axios) - Fetching data from API
 
-## REST Countries
+## REST Countries:
 [REST Countries](https://restcountries.eu/#rest-countries) is a Free API that provides information from all countries around the world
+
+## Live Version:
+https://check-country-ap-bembnias.netlify.app/
