@@ -1,5 +1,5 @@
 # Check Country App
-Everything about the countries of our globe
+Standard informations about the countries of our globe.
 
 ## Main features are searching for country by its:
 - calling code
